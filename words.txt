@@ -1,0 +1,7 @@
+#use following words
+#	-admin
+#	-sollution or vendor name
+#	-default passwords
+admin
+acme
+packet
