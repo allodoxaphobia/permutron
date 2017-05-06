@@ -7,10 +7,10 @@ Usage:
 Enter words likely to be included in password to words.txt. One word per line
 If you are uncertain what to add, here's a good starter:
 admin
-<nameofproduct>
-<nameofvendor>
-<nameofclient>
-<nameofserver>
+nameofproduct
+nameofvendor
+nameofclient
+nameofserver
 
 in permutron.conf, update the value of the human_pass setting to your desire, excepts values 0-5 where:
 0 - is all permutations will be generated and more, less likely characters are used in permutation
